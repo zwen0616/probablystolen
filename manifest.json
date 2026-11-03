@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "酸鹼殘留最佳化計算器",
+  "short_name": "酸鹼計算器",
+  "description": "管理多罐酸鹼、比較添加順序並搜尋低殘留方案。",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#2457c5",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icons/maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
